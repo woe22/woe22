@@ -1,4 +1,4 @@
-# Kai — Blue Team Portfolio (woe22)
+# Kai Gallette — Blue Team Portfolio (woe22)
 
 **Aspiring SOC Analyst** focused on *detection, triage, and incident response*. I build reproducible, hands‑on labs and document them like real SOC tickets—queries, logs, timelines, detections, and ATT&CK mapping.
 
